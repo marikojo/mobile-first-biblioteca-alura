@@ -44,6 +44,9 @@ display: none;
     background-clip: text;
     text-transform: uppercase;
 }
+.div-menu{
+    display: none;
+}
 
 @media screen and (min-width:1024px) {
     h1 {
