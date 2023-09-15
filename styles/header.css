@@ -37,6 +37,7 @@ display: none;
 }
 .lista-menu-título{
     color: var(--amarelo);
+    font-weight: 700;
 }
 .lista-menu-item{
     background: var(--roxo);
